@@ -1,0 +1,5 @@
+^tests/pr/
+Makefile\.in$
+^config-log/
+^build-aux/texinfo\.tex$
+\.gdb-history$
